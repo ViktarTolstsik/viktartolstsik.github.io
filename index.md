@@ -1,5 +1,5 @@
 title: Welcome to the Octocat’s homepage!
-desctiption: Feel free to bookmark this to keep an eye on my project updates
+description: Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/ViktarTolstsik/viktartolstsik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
