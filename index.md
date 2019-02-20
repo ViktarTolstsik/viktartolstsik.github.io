@@ -1,26 +1,26 @@
 # Portfolio
 
-### About me
+## About me
 ```
 to be added
-# Highlights
-- 
-- 
-- 
 ```
-### Additional information
+## Highlights
+- 
+- 
+- 
+## Additional information
 
 ```markdown
-# Interests
+Interests
 - 
 - 
 - 
-# Other
+Other
 - 
 - 
 -
 ```
-### Recent projects
+## Recent projects
 ```
 to be added
 ```
