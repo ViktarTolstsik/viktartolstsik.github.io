@@ -11,12 +11,14 @@ to be added
 
 ## Additional information
 
-```markdown
-Interests
+### Interests
+```
 - 
 - 
 - 
-Other
+```
+### Other
+```
 - 
 - 
 -
