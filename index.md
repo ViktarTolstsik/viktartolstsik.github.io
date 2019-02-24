@@ -12,15 +12,18 @@ Studied and graduated from Minsk State Higher Radio Engineering College in 2017,
 ### Interests
 ```
 - Fantasy & Sci-Fi fan, gamer and basically a guy who's in love with movies.
-- Star Trek, Star Wars, Warhammer 40000, Middle-Earth, The Witcher, Warcraft etc...
+- Star Trek, Star Wars, Warhammer 40000, Middle-Earth, The Witcher, 
+Warcraft etc...
 - DC > Marvel.
-- Huge fan of history, mostly medieval time periods, World War II and the Great Patriotic war, ancient Greece and Rome. 
+- Huge fan of history, mostly medieval time periods, 
+World War II and the Great Patriotic war, ancient Greece and Rome. 
 - From time to time travel across the country.
 ```
 ### Other
 ```
 - Dreaming of staying for couple of days in one of our country's castles.
-- In hopes of finding a suitable working place with great, fun and passionate colleagues.
+- In hopes of finding a suitable working place with great, 
+fun and passionate colleagues.
 - Youth ambassador of UN Sustainable Development Goals in Belarus. 
 ```
 ## Recent projects
