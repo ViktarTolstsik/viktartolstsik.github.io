@@ -15,7 +15,8 @@ Studied and graduated from Minsk Radioengineering College, with a degree “Info
 ```
 - watching movies, playing video-games, reading books.  
 - Most of their genres are speculative fiction, adventures and war history. Big fan of Star Wars universe.
-- Sometimes like to walk around in my city, exploring new places. Rarely prefer to travel far away, exploring new towns and cities, new edges.
+- Sometimes like to walk around in my city, exploring new places. Rarely prefer to travel far away, exploring 
+new towns and cities, new edges.
 ```
 ### Other
 ```
