@@ -14,8 +14,10 @@ Studied and graduated from Minsk Radioengineering College, with a degree “Info
 ### Interests
 ```
 - watching movies, playing video-games, reading books.  
-- Most of their genres are speculative fiction, adventures and war history. Big fan of Star Wars universe.
-- Sometimes like to walk around in my city, exploring new places. Rarely prefer to travel far away, exploring 
+- Most of their genres are speculative fiction, adventures and war history. 
+- Big fan of Star Wars universe.
+- Sometimes like to walk around in my city, exploring new places. 
+- Rarely prefer to travel far away, exploring 
 new towns and cities, new edges.
 ```
 ### Other
@@ -25,7 +27,7 @@ new towns and cities, new edges.
 - Youth ambassador of UN Sustainable Development Goals. 
 ```
 ## Recent projects
-```
-- GitHib profile: [Link](https://github.com/ViktarTolstsik)
-- Codewars profile: [Link](https://www.codewars.com/users/ViktarTolstsik)
-```
+
+- [GitHib](https://github.com/ViktarTolstsik) profile.
+- [Codewars](https://www.codewars.com/users/ViktarTolstsik) profile.
+
