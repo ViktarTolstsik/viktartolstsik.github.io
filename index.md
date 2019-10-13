@@ -1,5 +1,5 @@
 ## About me
-Studied and graduated from Minsk State Higher Radio Engineering College in 2017, speciality - “Information technologies software”, qualification – a technician-programmer. Currently studying at the Belarusian State University of Informatics and Radioelectronics, faculty of radioengineering and electronics.
+Studied and graduated from Minsk State Higher Radio Engineering College in 2017, speciality - “Information technologies software”, qualification – a technician-programmer. Currently studying at the Belarusian State University of Informatics and Radioelectronics, faculty of Radioengineering and Electronics.
 
 ## Highlights
 - C# and C++ developing: 2+ year practice at the college and university. College graduating project: a program for studying further mathematics, based on Windows Forms and written in C# language. 
